@@ -1,0 +1,11 @@
+numpy==1.24.4  #numerical operations,array , math computations
+pandas==1.5.3   #data loading, cleaning, manipulation(csv/json)
+scikit-learn==1.2.2  #ML Models ,TF-IDF, train-test split, evaluation
+nltk==3.8.1   #basic NLP tasks, tokenization, stopword
+gensim==4.3.2  #word embeddings , words2vec, text processing
+transformers==4.40.2 #bert/roBERTa models for high-level NLP tasks
+tqdm==4.65.0    #progress bars for loops
+matplotlib==3.7.1  #plots
+seaborn==0.12.2    #advanced visualizations
+beautifulsoup4==4.12.3 #scrape text from websites
+scipy==1.10.1
